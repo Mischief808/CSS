@@ -1,0 +1,10 @@
+.bah
+{
+    height:600px;
+    width: 900px;
+    background-color:rgb(179, 169, 169);
+    background-image:url(./bgimg.jpg);
+    border:10px solid black;
+    background-repeat: repeat-y;
+
+}
