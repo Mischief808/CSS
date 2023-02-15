@@ -1,10 +1,28 @@
 .bah
 {
-    height:600px;
-    width: 900px;
-    background-color:rgb(179, 169, 169);
-    background-image:url(./bgimg.jpg);
+    height:725px;
+    width: 1000px;
+    left:50px;
+    background-color:lime;
     border:10px solid black;
-    background-repeat: repeat-y;
-
 }
+#ba
+{
+    color:rgb(38, 0, 255);
+}
+p
+{
+  color:darkblue;
+}
+p
+{
+    color:darkred;
+}
+p{
+    color:darkviolet;
+}
+p{
+    color:rgb(2, 82, 51);
+} 
+
+
