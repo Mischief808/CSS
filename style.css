@@ -1,8 +1,7 @@
-.bah
+.jab
 {
-    height:725px;
-    width: 1000px;
-    left:50px;
+    height:325px;
+    width:1000px;
     background-color:lime;
     border:10px solid black;
 }
@@ -18,11 +17,6 @@ p
 {
     color:darkred;
 }
-p{
-    color:darkviolet;
-}
-p{
-    color:rgb(2, 82, 51);
-} 
+
 
 
